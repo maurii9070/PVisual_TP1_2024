@@ -21,6 +21,8 @@ public class Main {
 			System.out.println("El numero es impar.");
 			System.out.println("El doble del numero es: " + doble);
 		}
+		
+		scanner.close();
 	}
 
 }
